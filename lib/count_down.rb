@@ -1,4 +1,4 @@
-count = 11
+count = 10
 while count >= 1 do
   puts count
   count -= 1
